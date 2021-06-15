@@ -1,0 +1,1 @@
+tresholddetector.GraphicsObj
